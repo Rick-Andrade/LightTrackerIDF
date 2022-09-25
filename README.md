@@ -35,3 +35,7 @@ This prjkect is an embedded application that consists of a photovoltaic panel mo
     <td>v3.0.2</td>
   </tr>
 </table>
+
+## Images:
+![WhatsApp Image 2022-09-24 at 21 52 20](https://user-images.githubusercontent.com/64144293/192128364-746fcd93-4866-44dc-ba7f-72d460f71a95.jpeg)
+
