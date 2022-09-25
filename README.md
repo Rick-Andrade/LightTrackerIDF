@@ -1,2 +1,2 @@
 # LightTrackerIDF
-Task of ESP-IDF
+Task of ESP-IDF Course
