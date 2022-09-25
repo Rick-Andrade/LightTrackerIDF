@@ -1,4 +1,4 @@
-# LightTrackerIDF
+![esp-idf](https://user-images.githubusercontent.com/64144293/192128611-fe724d08-c0ee-4f8b-aeb2-7bc9b5b9d7d9.png)
 
 > Status: Developing ⚠️
 
